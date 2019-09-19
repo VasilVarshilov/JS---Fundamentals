@@ -3,3 +3,4 @@ function solve(name, age, grade) {
     console.log(info);
 }
 solve('John', 15, 5.54678);
+sssss
